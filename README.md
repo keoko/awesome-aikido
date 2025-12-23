@@ -6,15 +6,18 @@ Curated list of awesome Aikido material.
 ### Suwari Waza
 #### Shomen Uchi 
 ##### Ikkyo
-TODO
+- [François Pichereau - Suwari waza, shomen uchi, ikyo](https://www.youtube.com/watch?v=eXTgZMILWZw&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=8)
 ##### Nikyo
-TODO
+- [François Pichereau - Suwari waza, shomen uchi, nikyo](https://www.youtube.com/watch?v=J8MpnscyjtA&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=9)
 ##### Sankyo
-TODO
+- [François Pichereau - Suwari waza, shomen uchi, sankyo](https://www.youtube.com/watch?v=bRc-UjpA0Jk&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=10)
 ##### Yonkyo
-TODO
+- [François Pichereau - Suwari waza, shomen uchi, yonkyo](https://www.youtube.com/watch?v=LRtp2w2-pOY&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=11)
 ##### Gokyo
-TODO
+- [Howcast - How to do gokyo](https://www.youtube.com/watch?v=b3MGSYIzUFw)
+- [Aikido Hodartzan - Gokyo](https://aikidoenlaplaya.wordpress.com/tecnicas/gokyo/)
+- [Paul Muller Aikido - 2. Kyu Suwari Waza Shomen Uchi Gokyo](https://www.youtube.com/watch?v=I9yxgCQqlME)
+- [François Pichereau - Suwari waza, shomen uchi, gokyo](https://www.youtube.com/watch?v=D65OSmnIo5o&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=12)
 
 #### Gyaku Hanmi Katate Dori
 ##### Ikkyo
@@ -38,7 +41,7 @@ TODO
 ##### Juji garami 
 TODO
 ##### Kokyu ho 
-TODO
+- [Raphael Arilla - Ryote dori kokyu ho omote et ura](https://www.youtube.com/watch?v=41v1W_cG18A)
 ##### Kokyu nage
 TODO
 
@@ -91,6 +94,15 @@ TODO
 
 
 ### Ken Suburi (bokken)
+##### 1er suburi (Shomen uchi)
+TODO
+##### 2on suburi (Shomen uchikomi)
+TODO
+##### 3er suburi (Shomen uchiwaki)
+TODO
+##### 4art suburi (Shomen uchi Hidari, Migi)
+TODO
+##### 5e suburi (Shomen uchi, Gyaku Yokomen)
 TODO
 
 ### Jo
