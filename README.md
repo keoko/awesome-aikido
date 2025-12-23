@@ -64,8 +64,31 @@ TODO
 
 ### Ushiro Waza
 #### Ushiro Ryote Dori
+##### Ikkyo
+TODO
+##### Nikyo
+TODO
+##### Sankyo
+TODO
 ##### Kote gaeshi
 - [Aikido Isabel Planells - técnicas desde Ushiro Ryote Dori ](https://www.youtube.com/watch?v=D6REWFS_WsA&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=2)
+##### Kokyu ho
+TODO 
+##### Kokyu nage
+TODO
+
+#### Ushiro Ryo Kata Dori
+##### Ikkyo
+TODO
+##### Nikyo
+TODO
+##### Sankyo
+TODO
+##### Shiho nage
+TODO
+##### Kokyu nage
+TODO
+
 
 ### Ken Suburi (bokken)
 TODO
