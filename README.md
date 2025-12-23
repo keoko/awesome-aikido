@@ -4,11 +4,44 @@ Curated list of awesome Aikido material.
 
 ## 2nd kyu
 ### Suwari Waza
+#### Shomen Uchi 
+##### Ikkyo
+TODO
+##### Nikyo
+TODO
+##### Sankyo
+TODO
+##### Yonkyo
+TODO
+##### Gokyo
+TODO
+
 #### Gyaku Hanmi Katate Dori
-##### Kaiten Nage
+##### Ikkyo
+TODO
+##### Irimi nage
+TODO
+##### Shiho nage
+TODO
+##### Kaiten gage
 - [Aikido Isabel Planells - Cómo hacer Uchi Kaiten Nage](https://www.youtube.com/watch?v=6EUIMiKSKaM&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=12)
 
+
 ### Tachi Waza
+#### Ryote Dori
+##### Ten chin nage
+TODO
+##### Kote gaeshi
+TODO
+##### Irimi nage
+TODO
+##### Juji garami 
+TODO
+##### Kokyu ho 
+TODO
+##### Kokyu nage
+TODO
+
 #### Yokomen Uchi
 ##### Shiho nage
 - [Aikido Isabel Planells - 3 formas básicas de defenderse ante Yokomen Uchi en Aikido](https://www.youtube.com/watch?v=6EUIMiKSKaM&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=12)
@@ -19,6 +52,16 @@ TODO
 ##### Kokyu nage
 TODO
 
+####  Kata Dori Menuchi
+##### Ikkyo
+TODO
+##### Nikyo
+TODO
+##### Uchi kaiten nage
+TODO
+##### Uchi kaiten sankyo
+TODO
+
 ### Ushiro Waza
 #### Ushiro Ryote Dori
 ##### Kote gaeshi
@@ -26,7 +69,6 @@ TODO
 
 ### Ken Suburi (bokken)
 TODO
-
 
 ### Jo
 #### kata de 14
