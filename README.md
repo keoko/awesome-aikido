@@ -57,11 +57,15 @@ TODO
 
 ####  Kata Dori Menuchi
 ##### Ikkyo
-TODO
+- [Christian Tissier - aikido | katadori menuchi | ikkyo omote (1ère forme)](https://www.youtube.com/watch?v=umNi5fKeaLA&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=1)
+- [Christian Tissier - aikido | katadori menuchi | ikkyo omote (2ème forme)](https://www.youtube.com/watch?v=X1mnwxt1zgo&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=2)
+- [Christian Tissier - aikido | katadori menuchi | ikkyo ura (1ère forme)](https://www.youtube.com/watch?v=umNi5fKeaLA&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=3)
+- [Christian Tissier - aikido | katadori menuchi | ikkyo ura (2ème forme)](https://www.youtube.com/watch?v=X1mnwxt1zgo&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=4)
 ##### Nikyo
-TODO
+- [Christian Tissier - aikido | katadori menuchi | nikyo ura](https://www.youtube.com/watch?v=7vvKNjwkecs&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=5)
 ##### Uchi kaiten nage
-TODO
+- [Aikido Isabel Planells - cómo hacer uchi kaiten nage puntos a tener en cuenta](https://www.youtube.com/watch?v=735Niqg4os4)
+- [François Pichereau - Tachi waza, kata dori menuchi, uchi kaiten nage](https://www.youtube.com/watch?v=boJTHMNJM18)
 ##### Uchi kaiten sankyo
 TODO
 
