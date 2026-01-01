@@ -3,7 +3,9 @@
 Curated list of awesome Aikido material.
 
 ## 2nd kyu
+
 ### Suwari Waza
+
 #### Shomen Uchi 
 ##### Ikkyo
 - [François Pichereau - Suwari waza, shomen uchi, ikyo](https://www.youtube.com/watch?v=eXTgZMILWZw&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=8)
@@ -19,49 +21,64 @@ Curated list of awesome Aikido material.
 - [Paul Muller Aikido - 2. Kyu Suwari Waza Shomen Uchi Gokyo](https://www.youtube.com/watch?v=I9yxgCQqlME)
 - [François Pichereau - Suwari waza, shomen uchi, gokyo](https://www.youtube.com/watch?v=D65OSmnIo5o&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=12)
 
+
 #### Gyaku Hanmi Katate Dori
 ##### Ikkyo
 TODO
 ##### Irimi nage
-TODO
+- [Kokoro Aikido - 3. kyu exam techniques irimi nage](https://youtu.be/bi8t_-kLil8?t=110)
+
 ##### Shiho nage
 TODO
-##### Kaiten gage
+##### Kaiten nage
 - [Aikido Isabel Planells - Cómo hacer Uchi Kaiten Nage](https://www.youtube.com/watch?v=6EUIMiKSKaM&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=12)
 
 
+
 ### Tachi Waza
+
 #### Ryote Dori
+
 ##### Ten chin nage
 TODO
+
 ##### Kote gaeshi
 TODO
+
 ##### Irimi nage
 TODO
+
 ##### Juji garami 
 TODO
+
 ##### Kokyu ho 
 - [Raphael Arilla - Ryote dori kokyu ho omote et ura](https://www.youtube.com/watch?v=41v1W_cG18A)
+
 ##### Kokyu nage
 TODO
 
 #### Yokomen Uchi
+
 ##### Shiho nage
 - [Aikido Isabel Planells - 3 formas básicas de defenderse ante Yokomen Uchi en Aikido](https://www.youtube.com/watch?v=6EUIMiKSKaM&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=12)
+
 ##### Koshi nage
 - [Kokoro Aikido - 2. kyu exam techniques koshi nage](https://youtu.be/u8WD-0W-pP4?t=1695)
+
 ##### Irimi nage
 - [Aikido Isabel Planells - Aprende Irimi Nage desde Yokomen Uchi](https://www.youtube.com/watch?v=9JaQwcuB5_M&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=7)
+
 ##### Kokyu nage
 - [Kokoro Aikido - 2. kyu exam techniques kokyu nage 1](https://youtu.be/u8WD-0W-pP4?t=1660)
 - [Kokoro Aikido - 2. kyu exam techniques kokyu nage 2](https://youtu.be/u8WD-0W-pP4?t=1676)
 
 ####  Kata Dori Menuchi
+
 ##### Ikkyo
-- [Christian Tissier - aikido | katadori menuchi | ikkyo omote (1ère forme)](https://www.youtube.com/watch?v=umNi5fKeaLA&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=1)
-- [Christian Tissier - aikido | katadori menuchi | ikkyo omote (2ème forme)](https://www.youtube.com/watch?v=X1mnwxt1zgo&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=2)
-- [Christian Tissier - aikido | katadori menuchi | ikkyo ura (1ère forme)](https://www.youtube.com/watch?v=umNi5fKeaLA&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=3)
-- [Christian Tissier - aikido | katadori menuchi | ikkyo ura (2ème forme)](https://www.youtube.com/watch?v=X1mnwxt1zgo&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=4)
+- [Christian Tissier - aikido | katadori menuchi | ikkyo omote 1ère forme](https://www.youtube.com/watch?v=umNi5fKeaLA&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=1)
+- [Christian Tissier - aikido | katadori menuchi | ikkyo omote 2ème forme](https://www.youtube.com/watch?v=X1mnwxt1zgo&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=2)
+- [Christian Tissier - aikido | katadori menuchi | ikkyo ura 1ère forme](https://www.youtube.com/watch?v=umNi5fKeaLA&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=3)
+- [Christian Tissier - aikido | katadori menuchi | ikkyo ura 2ème forme](https://www.youtube.com/watch?v=X1mnwxt1zgo&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=4)
 ##### Nikyo
 - [Christian Tissier - aikido | katadori menuchi | nikyo ura](https://www.youtube.com/watch?v=7vvKNjwkecs&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=5)
 ##### Uchi kaiten nage
