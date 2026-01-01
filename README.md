@@ -9,17 +9,22 @@ Curated list of awesome Aikido material.
 #### Shomen Uchi 
 ##### Ikkyo
 - [François Pichereau - Suwari waza, shomen uchi, ikyo](https://www.youtube.com/watch?v=eXTgZMILWZw&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=8)
+- [Kokoro Aikido - 2. kyu exam techniques shomen uchi ikkyo](https://youtu.be/u8WD-0W-pP4?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=12)
 
 ##### Nikyo
 - [François Pichereau - Suwari waza, shomen uchi, nikyo](https://www.youtube.com/watch?v=J8MpnscyjtA&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=9)
+- [Kokoro Aikido - 2. kyu exam techniques shomen uchi nikyo](https://youtu.be/u8WD-0W-pP4?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=57)
 
 ##### Sankyo
 - [François Pichereau - Suwari waza, shomen uchi, sankyo](https://www.youtube.com/watch?v=bRc-UjpA0Jk&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=10)
+- [Kokoro Aikido - 2. kyu exam techniques shomen uchi sankyo](https://youtu.be/u8WD-0W-pP4?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=112)
 
 ##### Yonkyo
 - [François Pichereau - Suwari waza, shomen uchi, yonkyo](https://www.youtube.com/watch?v=LRtp2w2-pOY&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=11)
+- [Kokoro Aikido - 2. kyu exam techniques shomen uchi yonkyo](https://youtu.be/u8WD-0W-pP4?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=178)
 
 ##### Gokyo
+- [Kokoro Aikido - 2. kyu exam techniques shomen uchi gokyo](https://youtu.be/u8WD-0W-pP4?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=227)
 - [Howcast - How to do gokyo](https://www.youtube.com/watch?v=b3MGSYIzUFw)
 - [Aikido Hodartzan - Gokyo](https://aikidoenlaplaya.wordpress.com/tecnicas/gokyo/)
 - [Paul Muller Aikido - 2. Kyu Suwari Waza Shomen Uchi Gokyo](https://www.youtube.com/watch?v=I9yxgCQqlME)
@@ -27,12 +32,14 @@ Curated list of awesome Aikido material.
 
 #### Gyaku Hanmi Katate Dori
 ##### Ikkyo
-TODO
+- [Kokoro Aikido - 4. kyu exam techniques ikkyo](https://youtu.be/LaSilceurNY?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=14)
+
 ##### Irimi nage
 - [Kokoro Aikido - 3. kyu exam techniques irimi nage](https://youtu.be/bi8t_-kLil8?t=110)
 
 ##### Shiho nage
 TODO
+
 ##### Kaiten nage
 - [Aikido Isabel Planells - Cómo hacer Uchi Kaiten Nage](https://www.youtube.com/watch?v=6EUIMiKSKaM&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=12)
 
