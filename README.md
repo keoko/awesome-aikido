@@ -49,11 +49,12 @@ TODO
 ##### Shiho nage
 - [Aikido Isabel Planells - 3 formas básicas de defenderse ante Yokomen Uchi en Aikido](https://www.youtube.com/watch?v=6EUIMiKSKaM&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=12)
 ##### Koshi nage
-TODO
+- [Kokoro Aikido - 2. kyu exam techniques koshi nage](https://youtu.be/u8WD-0W-pP4?t=1695)
 ##### Irimi nage
 - [Aikido Isabel Planells - Aprende Irimi Nage desde Yokomen Uchi](https://www.youtube.com/watch?v=9JaQwcuB5_M&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=7)
 ##### Kokyu nage
-TODO
+- [Kokoro Aikido - 2. kyu exam techniques kokyu nage 1](https://youtu.be/u8WD-0W-pP4?t=1660)
+- [Kokoro Aikido - 2. kyu exam techniques kokyu nage 2](https://youtu.be/u8WD-0W-pP4?t=1676)
 
 ####  Kata Dori Menuchi
 ##### Ikkyo
@@ -72,25 +73,28 @@ TODO
 ### Ushiro Waza
 #### Ushiro Ryote Dori
 ##### Ikkyo
-TODO
+- [Club Aikido Lleida - ushiro ryote dori ikkyo omote](https://www.youtube.com/watch?v=PWEZfhmkt4I)
+- [Kokoro Aikido - 3. kyu exam techniques ikkyo omote](https://youtu.be/bi8t_-kLil8?t=2365)
 ##### Nikyo
-TODO
+- [Kokoro Aikido - 3. kyu exam techniques nikyo omote](https://youtu.be/bi8t_-kLil8?t=2427)
 ##### Sankyo
-TODO
+- [Kokoro Aikido - 3. kyu exam techniques sankyo omote](https://youtu.be/bi8t_-kLil8?t=2508)
 ##### Kote gaeshi
+- [Kokoro Aikido - 3. kyu exam techniques kote gaeshi omote](https://youtu.be/bi8t_-kLil8?t=2668)
 - [Aikido Isabel Planells - técnicas desde Ushiro Ryote Dori ](https://www.youtube.com/watch?v=D6REWFS_WsA&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=2)
+- [Aikido Isabel Planells - 3 técnicas de 4 kyu de Aikido](https://www.youtube.com/watch?v=go20qA2bsCo&list=PLOzpLLnWCCcycjjvaJi1CASPkQth3Oq0K&index=80&t=638s)
 ##### Kokyu ho
 TODO 
 ##### Kokyu nage
-TODO
+- [Kokoro Aikido - 2. kyu exam techniques kokyu nage](https://youtu.be/u8WD-0W-pP4?t=2183)
 
 #### Ushiro Ryo Kata Dori
 ##### Ikkyo
 TODO
 ##### Nikyo
-TODO
+- [Club Aikido Lleida - ushiro ryo kata dori nikyo omote](https://www.youtube.com/watch?v=Pj55QadRI4g&list=PL4yA4sf37ZE6mZ7C2TjEYo2hl_vuExC_L&index=25)
 ##### Sankyo
-TODO
+- [Club Aikido Lleida - ushiro ryo kata dori sankyo omote](https://www.youtube.com/watch?v=uoyJfzb4VOA&list=PL4yA4sf37ZE6mZ7C2TjEYo2hl_vuExC_L&index=23)
 ##### Shiho nage
 TODO
 ##### Kokyu nage
