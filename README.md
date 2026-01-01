@@ -9,18 +9,21 @@ Curated list of awesome Aikido material.
 #### Shomen Uchi 
 ##### Ikkyo
 - [François Pichereau - Suwari waza, shomen uchi, ikyo](https://www.youtube.com/watch?v=eXTgZMILWZw&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=8)
+
 ##### Nikyo
 - [François Pichereau - Suwari waza, shomen uchi, nikyo](https://www.youtube.com/watch?v=J8MpnscyjtA&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=9)
+
 ##### Sankyo
 - [François Pichereau - Suwari waza, shomen uchi, sankyo](https://www.youtube.com/watch?v=bRc-UjpA0Jk&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=10)
+
 ##### Yonkyo
 - [François Pichereau - Suwari waza, shomen uchi, yonkyo](https://www.youtube.com/watch?v=LRtp2w2-pOY&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=11)
+
 ##### Gokyo
 - [Howcast - How to do gokyo](https://www.youtube.com/watch?v=b3MGSYIzUFw)
 - [Aikido Hodartzan - Gokyo](https://aikidoenlaplaya.wordpress.com/tecnicas/gokyo/)
 - [Paul Muller Aikido - 2. Kyu Suwari Waza Shomen Uchi Gokyo](https://www.youtube.com/watch?v=I9yxgCQqlME)
 - [François Pichereau - Suwari waza, shomen uchi, gokyo](https://www.youtube.com/watch?v=D65OSmnIo5o&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=12)
-
 
 #### Gyaku Hanmi Katate Dori
 ##### Ikkyo
