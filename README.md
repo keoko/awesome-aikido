@@ -49,14 +49,14 @@ TODO
 
 #### Ryote Dori
 
-##### Ten chin nage
-TODO
+##### Tenchi nage
+- [Kokoro Aikido - 4. kyu exam techniques, ryote dori tenchi nage](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=493s)
 
 ##### Kote gaeshi
-TODO
+- [Kokoro Aikido - 4. kyu exam techniques, ryote dori kote gaeshi](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=959s)
 
 ##### Irimi nage
-TODO
+- [Kokoro Aikido - 4. kyu exam techniques, ryote dori irimi nage](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=930s)
 
 ##### Juji garami 
 TODO
