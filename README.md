@@ -42,7 +42,7 @@ TODO
 
 ##### Kaiten nage
 - [Kuma Aikido - soto kaiten nage](https://www.youtube.com/watch?v=ESXtsV0aeMI)
-
+- [Leandro Sodre - soto kaiten nage](https://www.youtube.com/watch?v=ESXtsV0aeMI)
 
 
 ### Tachi Waza
