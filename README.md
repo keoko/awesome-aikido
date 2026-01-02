@@ -41,7 +41,7 @@ Curated list of awesome Aikido material.
 TODO
 
 ##### Kaiten nage
-- [Aikido Isabel Planells - Cómo hacer Uchi Kaiten Nage](https://www.youtube.com/watch?v=6EUIMiKSKaM&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=12)
+- [Kuma Aikido - soto kaiten nage](https://www.youtube.com/watch?v=ESXtsV0aeMI)
 
 
 
