@@ -42,7 +42,7 @@ TODO
 
 ##### Kaiten nage
 - [Kuma Aikido - soto kaiten nage](https://www.youtube.com/watch?v=ESXtsV0aeMI)
-- [Leandro Sodre - soto kaiten nage](https://www.youtube.com/watch?v=ESXtsV0aeMI)
+- [Leonardo Sodre - soto kaiten nage](https://www.youtube.com/watch?v=ESXtsV0aeMI)
 
 
 ### Tachi Waza
@@ -126,13 +126,14 @@ TODO
 
 #### Ushiro Ryo Kata Dori
 ##### Ikkyo
-TODO
+- [François Pichereau - Tachi waza, ushiro ryokata dori, ikyo](https://www.youtube.com/watch?v=1AxrrJbjWYA)
 
 ##### Nikyo
 - [Club Aikido Lleida - ushiro ryo kata dori nikyo omote](https://www.youtube.com/watch?v=Pj55QadRI4g&list=PL4yA4sf37ZE6mZ7C2TjEYo2hl_vuExC_L&index=25)
 
 ##### Sankyo
 - [Club Aikido Lleida - ushiro ryo kata dori sankyo omote](https://www.youtube.com/watch?v=uoyJfzb4VOA&list=PL4yA4sf37ZE6mZ7C2TjEYo2hl_vuExC_L&index=23)
+- [Leonardo Sodre - ushiro ryokata-dori dai sankyo](https://www.youtube.com/watch?v=HJiP1R3g1qg)
 
 ##### Shiho nage
 TODO
