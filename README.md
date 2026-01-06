@@ -65,7 +65,7 @@ TODO
 - [Raphael Arilla - Ryote dori kokyu ho omote et ura](https://www.youtube.com/watch?v=41v1W_cG18A)
 
 ##### Kokyu nage
-TODO
+- [François Pichereau - Tachi waza, ryote dori, kokyu nage](https://www.youtube.com/watch?v=cf0uD0Ys3BU)
 
 #### Yokomen Uchi
 
