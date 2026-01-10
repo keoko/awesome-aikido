@@ -66,6 +66,7 @@ TODO
 
 ##### Kokyu nage
 - [François Pichereau - Tachi waza, ryote dori, kokyu nage](https://www.youtube.com/watch?v=cf0uD0Ys3BU)
+- [Ondřej Malina - kokyu nage ryote dori](https://www.youtube.com/watch?v=elxmgH0Qh2Y)
 
 #### Yokomen Uchi
 
@@ -123,6 +124,7 @@ TODO
 
 ##### Kokyu nage
 - [Kokoro Aikido - 2. kyu exam techniques kokyu nage](https://youtu.be/u8WD-0W-pP4?t=2183)
+- [François Pichereau - Tachi waza, Ushiro ryote dori, kokyu nage](https://www.youtube.com/watch?v=19X3GZo2GgY)
 
 #### Ushiro Ryo Kata Dori
 ##### Ikkyo
