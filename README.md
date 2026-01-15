@@ -132,7 +132,7 @@ TODO
 - [François Pichereau - Tachi waza, ushiro ryokata dori, ikyo](https://www.youtube.com/watch?v=1AxrrJbjWYA)
 
 ##### Nikyo
-- [Club Aikido Lleida - ushiro ryo kata dori nikyo omote](https://www.youtube.com/watch?v=Pj55QadRI4g&list=PL4yA4sf37ZE6mZ7C2TjEYo2hl_vuExC_L&index=25)
+- [Club Aikido Lleida - ushiro ryo kata dori nikyo omote](https://www.youtube.com/watch?v=Pj55QadRI4g&list=PL4yA4sf37ZE6mZ7C2TjEYo2hl_vuExC_L&index=24)
 
 ##### Sankyo
 - [Club Aikido Lleida - ushiro ryo kata dori sankyo omote](https://www.youtube.com/watch?v=uoyJfzb4VOA&list=PL4yA4sf37ZE6mZ7C2TjEYo2hl_vuExC_L&index=23)
@@ -142,7 +142,9 @@ TODO
 - [USEE Aikido - Ushiro ryo kata dori shiho nage](https://www.youtube.com/watch?v=6TpSQB1-5Ns&list=PLTRYwfot1GahqBjbhHSASiMlzhJg39JRw&index=5)
 
 ##### Kokyu nage
-TODO
+- [Michel Erl - Ushiro ryo kata dori kokyu nage 1](https://www.youtube.com/watch?v=AnTVROQDwws&list=PLzNdnnps0uJ4XPm0UfFVup9K-6raBErMi&index=11)
+- [Michel Erl - Ushiro ryo kata dori kokyu nage 2](https://www.youtube.com/watch?v=AnTVROQDwws&list=PLzNdnnps0uJ4XPm0UfFVup9K-6raBErMi&index=12)
+- [Michel Erl - Ushiro ryo kata dori kokyu nage 3](https://www.youtube.com/watch?v=AnTVROQDwws&list=PLzNdnnps0uJ4XPm0UfFVup9K-6raBErMi&index=13)
 
 
 ### Ken Suburi (bokken)
