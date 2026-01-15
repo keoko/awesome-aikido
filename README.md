@@ -120,6 +120,7 @@ TODO
 - [Aikido Isabel Planells - 3 técnicas de 4 kyu de Aikido](https://www.youtube.com/watch?v=go20qA2bsCo&list=PLOzpLLnWCCcycjjvaJi1CASPkQth3Oq0K&index=80&t=638s)
 
 ##### Kokyu ho
+- [Angelina Demilhanova - ushiro ryotedori kokyu ho](https://www.youtube.com/watch?v=AuIEeldhqzk)
 TODO 
 
 ##### Kokyu nage
