@@ -149,19 +149,19 @@ TODO
 
 ### Ken Suburi (bokken)
 ##### 1er suburi (Shomen uchi)
-TODO
+- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY)
 
 ##### 2on suburi (Shomen uchikomi)
-TODO
+- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY&t=43)
 
 ##### 3er suburi (Shomen uchiwaki)
-TODO
+- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY&t=109)
 
 ##### 4art suburi (Shomen uchi Hidari, Migi)
-TODO
+- [TakemusuAikidoNL - aikido instruction; ken suburi 4,5,6 and 7](https://www.youtube.com/watch?v=6keXUcYUE3M)
 
 ##### 5e suburi (Shomen uchi, Gyaku Yokomen)
-TODO
+- [TakemusuAikidoNL - aikido instruction; ken suburi 4,5,6 and 7](https://www.youtube.com/watch?v=6keXUcYUE3M&t=31)
 
 ### Jo
 #### kata de 14
