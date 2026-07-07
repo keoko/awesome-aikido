@@ -2,6 +2,242 @@
 
 Curated list of awesome Aikido material.
 
+## 1st kyu
+ 
+*Totes les tècniques en OMOTE i URA*
+ 
+> Videos below are chosen to show the exact **waza (posture) → attack → defense** combination, not just the technique in isolation.
+ 
+### Suwari Waza
+ 
+#### Shomen Uchi
+ 
+##### Irimi nage
+ 
+- [Technique Aïkido | Suwari waza - Shomen uchi - Irimi nage](https://www.youtube.com/watch?v=v9xkRJy7FFQ)
+- [Suwari Waza Shomen Uchi Irimi Nage](https://www.youtube.com/watch?v=1b0SmeUb3yY)
+- [⛩️ aïkido techniques - SUWARI WAZA - SHOMEN UCHI IRIMI NAGE - OMOTE - URA](https://www.youtube.com/watch?v=_hN1CGoA8SU)
+##### Kote gaeshi
+ 
+- [Suwari Waza - Shomen Uchi - Kote Gaeshi](https://www.youtube.com/watch?v=6uVEZo-09jw)
+- [suwari waza shomen uchi kotegaeshi [TUTORIAL]](https://www.youtube.com/watch?v=5EEwEbPsm74)
+- [Aikido Suwari waza Shomenuchi Kotegaeshi](https://www.youtube.com/watch?v=Wad5uOBfsfo)
+##### Shiho nage
+ 
+- [AIKIDO: SUWARI WAZA - SHOMEN UCHI - NAGE WAZA](https://m.youtube.com/watch?v=P2bstpfwmVY)
+- [Shomen Uchi Shiho Nage](https://www.youtube.com/watch?v=NcwZi87w1J4)
+- [AIKIDO – Suwari Waza – Shomen Uchi](https://www.youtube.com/watch?v=A_91kwTnjA0)
+#### Kata Dori
+ 
+##### Ikkyo
+ 
+- [Suwari Waza - Kata Dori - Ikkyo](https://www.youtube.com/watch?v=ppimQdRfu9Y)
+- [Suwari waza kata dori 1 sur 4: diverses formes de Ikkyo](https://www.youtube.com/watch?v=j-wEpa0TKGI)
+- [Technique Aïkido | Suwari waza - Aï Hanmi Katate dori - Ikkyo](https://www.youtube.com/watch?v=Ad5Sp-wiou4)
+##### Nikyo
+ 
+- [Aikido: Suwari Waza Kata Dori Nikyo (Detail)](https://www.youtube.com/watch?v=8KHTl5veeeU)
+- [Suwari Waza, Hanmi Handachi Waza: Nikyo. Katate dori: Sankyo](https://www.youtube.com/watch?v=fiJdzT3a1d4)
+- [Suwari waza / Aï Hanmi Katate Dori: Ikyo, Nikyo, Sankyo, Yonkyo, Gokyo](https://www.youtube.com/watch?v=lDWYrUUbSVs)
+##### Sankyo
+ 
+- [Aikido Suwari waza Kata dori sankyo 3rd kyu](https://www.youtube.com/watch?v=c25nD5zW58c)
+- [Suwari waza / Aï Hanmi Katate Dori: Ikyo, Nikyo, Sankyo, Yonkyo, Gokyo](https://www.youtube.com/watch?v=lDWYrUUbSVs)
+- [AIKIDO - SUWARI WAZA - YOKOMEN UCHI - Ikkyo - Nikyo - Sankyo](https://www.youtube.com/watch?v=_saH52CPML4)
+##### Irimi nage
+ 
+- [Technique Aïkido | Suwari waza - Aï Hanmi Katate dori - Irimi nage](https://www.youtube.com/watch?v=YcAotXibAfo)
+- [Aikido Suwari Waza Katate Dori irimi Nage - Özgün Aikido](https://www.youtube.com/watch?v=LWPnYTTaBUA)
+- [Suwari waza, Ai hanmi katate dori, Irimi nage](https://www.youtube.com/watch?v=g8vjhAqhVLU)
+##### Kaiten nage
+ 
+⚠️ *No dedicated "suwari waza / kata dori / kaiten nage" video was found — this attack-defense pairing is uncommon (kaiten nage is normally trained from a standing/tachi waza position). The videos below show kaiten nage technique only, not this exact combination — treat as a stand-in until a proper match is found:*
+- [How to Do Kaiten Nage | Aikido Lessons](https://www.youtube.com/watch?v=gqvZ4KzIESw)
+- [AIKIDO: AI HANMI - KAITEN NAGE ( SOTO - UCHI )](https://www.youtube.com/watch?v=x9lh9QJzlIo)
+### Tachi Waza
+ 
+#### Gyaku Hanmi Katate Dori
+ 
+##### Ikkyo - Nikyo - Sankyo
+ 
+- [Katate dori ai hanmi Ikkyo Omote](https://www.youtube.com/watch?v=a4SDqDWi2iU)
+- [Gyaku hanmi katate dori ikkyo](https://www.youtube.com/watch?v=LtediWpTIuA)
+- [aikido instruction: katate dori gyaku hanmi, nikkyo ura waza](https://www.youtube.com/watch?v=Y0yhe3nyJrk)
+- [Aikido - Gyaku Hanmi Katate Dori Sankyo](https://www.youtube.com/watch?v=1dKLia5dj-I)
+##### Uchi kaiten sankyo
+ 
+- [Gyaku Hanmi Katate Dori Uchi Kaiten Sankyo Omote](https://www.youtube.com/watch?v=a_YrsL6UjcE)
+- [ai hanmi katate dori uchi kaiten sankyo (aikido)](https://www.youtube.com/watch?v=3c5WU3IP03A)
+- [Ai Hanmi Katate Dori Uchi Kaiten Sankyo](https://www.youtube.com/watch?v=pVm3jGgDYAY)
+##### Soto kaiten nage
+ 
+- [KAITEN NAGE soto - gyaku hanmi katate dori](https://www.youtube.com/watch?v=zTsuuTjkQgc)
+- [Gyaku Hanmi Katate tori Kaiten Nage (Soto-kaiten)](https://www.youtube.com/watch?v=sbiZ0nwvkYk)
+- [AIKIDO - HANMI HANDACHI WAZA - Gyaku Hanmi Katate Dori - Kaiten Nage - Uchi & Soto - Omote & Ura](https://www.youtube.com/watch?v=CAhIaidQvWk)
+##### Uchi kaiten nage
+ 
+- [Gyaku Hanmi Katate Dori Uchi Kaiten Nage](https://www.youtube.com/watch?v=N6n2FaanELI)
+- [Gyaku Hanmi Katate tori Kaiten Nage (Uchi-Kaiten)](https://www.youtube.com/watch?v=PSCxR35m1Ls)
+- [Gyaku Hanmi Katate Dori Kaiten Nage Uchi/Soto | Cheat sheet](https://www.youtube.com/watch?v=J3axyO8CzsI)
+##### Kote gaeshi
+ 
+- [4. Kyu - Tachi waza - Katate Dori Gyaku Hanmi - Kote Gaeshi Omote](https://www.youtube.com/watch?v=psmRNdrieYk)
+- [Tachi Waza Gyaku Hanmi Katate Dori Kote Gaeshi](https://www.youtube.com/watch?v=hqM8oTRU2Tg)
+- [Gyaku Hanmi Katate Dori Kotegaeshi Ura](https://www.youtube.com/watch?v=z6JYb4UGwD0)
+#### Jodan Tsuki
+ 
+##### Ikkyo
+ 
+- [IKKYO ura - jodan tsuki](https://www.youtube.com/watch?v=DsyiZxoYcqc)
+- [Jodan tsuki ikkyo et variations](https://www.youtube.com/watch?v=A-CKimJDues)
+- [JODAN TSUKI IKKYO OMOTE & NIKKYO URA - Christian Tissier](https://www.youtube.com/watch?v=etBD7g5SyPM)
+##### Nikyo
+ 
+- [Jodan Tsuki NIKYO - omote & ura](https://www.youtube.com/watch?v=DsgsjwWq6uU)
+- [Christian Tissier | Aikido | jodan tsuki | nikyo ura](https://www.youtube.com/watch?v=9kJMOdE35Kg)
+- [Jodan Tsuki: Nikyo Ura](https://www.youtube.com/watch?v=ErOxU5ixKuc)
+##### Sankyo
+ 
+- [Jodan Tsuki SANKYO - omote & ura](https://www.youtube.com/watch?v=TOtUMYx3Leo)
+##### Irimi nage
+ 
+- [Jodan Tsuki IRIMINAGE - omote & ura](https://www.youtube.com/watch?v=RfbT1UTDEHI)
+- [Christian Tissier | Aikido | jodan tsuki | irimi nage](https://www.youtube.com/watch?v=_735W6ZDzGA)
+- [Jodan Tsuki Irimi Nage](https://www.youtube.com/watch?v=JG9MGAGUguI)
+#### Kata Dori Menuchi
+ 
+##### Shiho nage
+ 
+- [Kata Dori Men Uchi - Shiho Nage - Tamura Nobuyoshi shihan](https://www.youtube.com/watch?v=xEn2aya-qPE)
+- [Kata-dori men-uchi shihonage - Aikido Virtual Dojo](https://www.youtube.com/watch?v=1X-7801YHwk)
+- [[AIKIDO] Kata Dori Men Uchi - Shiho Nage (2022)](https://www.youtube.com/watch?v=iXvCe6BafV4)
+##### Koshi nage
+ 
+- [KOSHI NAGE, kata dori men uchi](https://www.youtube.com/watch?v=vpeXKfKIyb4)
+- [2. Kyu - Tachi Waza - Kata Dori Men Uchi - Koshi Nage](https://www.youtube.com/watch?v=jK1RU7v0IVc)
+##### Kokyu nage
+ 
+- [Kata dori: Kokyu nage, kote gaeshi](https://www.youtube.com/watch?v=z7xyVXXx54w)
+- [AIKIDO: Kata dori men uchi with Nora Weller (Kokyu Nage, Kote gaeshi)](https://www.youtube.com/watch?v=EhxRVqQSkHE)
+- [Kata dori Menuchi Kokyu Nage](https://m.youtube.com/watch?v=6SW9vwDEAps)
+##### Kote gaeshi
+ 
+- [Tachi waza, Kata dori men uchi, Kote gaeshi](https://www.youtube.com/watch?v=GEbtVST4urE)
+- [AIKIDO - TACHI WAZA - KATA DORI MENUCHI - Kote Gaeshi - Gokyo - Shiho Nage - Ikkyo](https://www.youtube.com/watch?v=8W_9N0yeLok)
+- [AIKIDO: Kata dori men uchi with Nora Weller (Kokyu Nage, Kote gaeshi)](https://www.youtube.com/watch?v=EhxRVqQSkHE)
+##### Ude kime nage
+ 
+- [Kata dori men uchi Ude kime nage](https://www.youtube.com/watch?v=o-2NIF4x6fc)
+- [Tachi waza, Kata dori men uchi, Ude kime nage](https://www.youtube.com/watch?v=mD62_onL63s)
+### Ushiro Waza
+ 
+#### Ushiro Ryote Dori
+ 
+##### Kote gaeshi
+ 
+- [KOTE GAESHI - Ushiro Ryote Dori (Aikido Iwama)](https://www.youtube.com/watch?v=RJNPG4HvsXk)
+- [Ushiro Ryote dori: Shiho nage, kote gaeshi, ikkyo omote/ura](https://www.youtube.com/watch?v=ce28jp5ETng)
+##### Kokyu ho
+ 
+- [Aikido: Details on Ushiro Waza Ryote Dori Kokyu-Ho](https://m.youtube.com/watch?v=IzIrvB88exw)
+- [Aikido: Kihon 101 - Ushiro Ryote Dori Kokyu-Ho](https://www.youtube.com/watch?v=yxSGf2YF94g)
+##### Kokyu nage
+ 
+- [Aikido: Ushiro Ryote Dori Kokyu Nage](https://www.youtube.com/watch?v=NMXqhCEQAEA)
+- [KOKYU NAGE - Ushiro Ryote Dori (Aikido Iwama)](https://www.youtube.com/watch?v=oRWRCKK6LCE)
+- [Ushiro ryote dori kokyu nage](https://www.youtube.com/watch?v=ecsjFQlhbks)
+##### Ude kime nage
+ 
+- [Tachi waza, Ushiro ryote dori, Ude kime nage](https://www.youtube.com/watch?v=-9BBs1F9B1o)
+- [Ushiro Ryote Dori Ude Kime Nage](https://www.youtube.com/watch?v=e_-a1qqMak4)
+##### Juji garami
+ 
+- [Aikido Technique: Ushiro Ryote Dori - Juji Garami Nage](https://www.youtube.com/watch?v=97h8Zxkif_E)
+- [Technique Aïkido | Tachi waza - ushiro ryote dori - juji garami](https://www.youtube.com/watch?v=x28RBYW8Mt0)
+- [Christian Tissier | Aikido | ushiro ryote dori | juji garami](https://www.youtube.com/watch?v=Fg_gJL9A6Yg)
+#### Ushiro Ryo Hiji Dori
+ 
+##### Nikyo
+ 
+⚠️ *No dedicated "ushiro ryo hiji dori / nikyo" video was found. Placeholder — please replace with a confirmed match:*
+- TODO
+##### Sankyo
+ 
+⚠️ *A subscriber-only listing exists ([aikidowaza.com – Ushiro ryo hiji dori sankyo omote](https://aikidowaza.com/en/technique/ushiro-ryo-hiji-dori-sankyo-omote/)) but no free/public video was confirmed. Placeholder:*
+- TODO
+##### Shiho nage
+ 
+- [tachi waza ushiro ryo hiji dori shiho nage omote](https://www.youtube.com/watch?v=cD5UKDzptJM)
+### Ken Suburi (bokken)
+ 
+*(No specific attack/defense pair — suburi are solo cutting exercises)*
+ 
+##### 1er suburi (Shomen uchi)
+ 
+- [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
+- [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
+- [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
+##### 2on suburi (Shomen uchikomi)
+ 
+- [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
+- [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
+- [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
+##### 3er suburi (Shomen uchiwaki)
+ 
+- [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
+- [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
+- [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
+##### 4art suburi (Shomen uchi Hidari, Migi)
+ 
+- [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
+- [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
+- [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
+##### 5er suburi (Yokomen uchi, Gyaku Yokomen)
+ 
+- [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
+- [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
+- [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
+##### 6er suburi (Yokomen tsuki, Gyaku Yokomen tsuki)
+ 
+- [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
+- [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
+- [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
+##### 7er suburi (Yokomen uchi, Hidari tsuki)
+ 
+- [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
+- [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
+- [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
+### Tanto Dori
+ 
+#### Atac Lliure
+ 
+##### Jiyu waza
+ 
+- [AÏKIDO | Tanto Dori Jiyu Waza](https://www.youtube.com/watch?v=n09shPRWWSo)
+- [SCARY Aikido Knife Disarm: How It Works (Tanto Dori)](https://www.youtube.com/watch?v=Qyi_PrjN1ps)
+- [Aikido Tanto dori - knife defense (playlist)](https://www.youtube.com/playlist?list=PLB0410E922787DE51)
+### Randori
+ 
+#### 2 ukes
+ 
+##### Atac Lliure
+ 
+##### Jiyu waza
+ 
+- [BASIC AIKIDO RANDORI (2 ukes)](https://m.youtube.com/shorts/_mTdI87ZMgM)
+- [Aikido Seminar: RANDORI - Multiple Attacker Basic Concepts](https://www.youtube.com/watch?v=8g_s8S2J_os)
+- [Aikido: Multiple Attack Randori - When Two Attackers Grab](https://www.youtube.com/watch?v=OAp2hmv_CUg)
+### Jo
+ 
+#### kata de 14
+ 
+- [Aikido: Jo Kata no. 14 - Attila Pivony Sensei](https://www.youtube.com/watch?v=Pfqd7WXWCk0)
+- [Kata 14 mouvements Jo par Denis DROGY](https://www.youtube.com/watch?v=uqHReeLK-2c)
+- [AKDN - pratique du JO - le kata des 14](https://www.youtube.com/watch?v=FgWFs6bKknM)
+ 
+
+
+
 ## 2nd kyu
 
 ### Suwari Waza
@@ -57,6 +293,7 @@ TODO
 
 ##### Irimi nage
 - [Kokoro Aikido - 4. kyu exam techniques, ryote dori irimi nage](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=930s)
+- [Club Aikido Lleida - ryote dori irimi nage](https://www.youtube.com/watch?v=i3YOvWYpc1Y)
 
 ##### Juji garami 
 TODO
