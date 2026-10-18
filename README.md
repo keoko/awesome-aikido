@@ -88,7 +88,8 @@ Curated list of awesome Aikido material.
 - [Suwari waza, Ai hanmi katate dori, Irimi nage](https://www.youtube.com/watch?v=g8vjhAqhVLU)
 ##### Kaiten nage
  
-⚠️ *No dedicated "suwari waza / kata dori / kaiten nage" video was found — this attack-defense pairing is uncommon (kaiten nage is normally trained from a standing/tachi waza position). The videos below show kaiten nage technique only, not this exact combination — treat as a stand-in until a proper match is found:*
+⚠️ *No dedicated "suwari waza / kata dori / kaiten nage" video was found — this attack-defense pairing is uncommon. The first video shows kaiten nage in suwari waza from shomen uchi; the others show standing kaiten nage. Treat them as stand-ins until a proper match is found:*
+- [⛩️ aïkido technique - SUWARI WAZA - SHOMEN UCHI SOTO KAITEN NAGE - OMOTE - URA](https://www.youtube.com/watch?v=NbEc87tfBqA)
 - [How to Do Kaiten Nage | Aikido Lessons](https://www.youtube.com/watch?v=gqvZ4KzIESw)
 - [AIKIDO: AI HANMI - KAITEN NAGE ( SOTO - UCHI )](https://www.youtube.com/watch?v=x9lh9QJzlIo)
 ### Tachi Waza
@@ -217,13 +218,12 @@ Curated list of awesome Aikido material.
 #### Ushiro Ryo Hiji Dori
  
 ##### Nikyo
- 
-⚠️ *No dedicated "ushiro ryo hiji dori / nikyo" video was found. Placeholder — please replace with a confirmed match:*
-- TODO
+- [AiViD - Ushirowaza hijitori nikyo (omote & ura)](https://www.youtube.com/watch?v=QRhBM9oY-FE)
+- [Aikido techniques reference - Ushiro ryohiji dori nikyo (omote)](https://www.youtube.com/watch?v=0w3_3VLar3Q)
+- [Cheryl Matrasko - Ushiro hiji-tori nikkyo omote](https://www.youtube.com/watch?v=QwyFFO-bIbM)
 ##### Sankyo
- 
-⚠️ *A subscriber-only listing exists ([aikidowaza.com – Ushiro ryo hiji dori sankyo omote](https://aikidowaza.com/en/technique/ushiro-ryo-hiji-dori-sankyo-omote/)) but no free/public video was confirmed. Placeholder:*
-- TODO
+- [Aikido techniques reference - Ushiro ryohiji dori sankyo (omote)](https://www.youtube.com/watch?v=tgXjl414e5E)
+- [Aikido techniques reference - Ushiro ryohiji dori sankyo (ura)](https://www.youtube.com/watch?v=6iwEIccPuMM)
 ##### Shiho nage
  
 - [tachi waza ushiro ryo hiji dori shiho nage omote](https://www.youtube.com/watch?v=cD5UKDzptJM)
@@ -339,7 +339,9 @@ Curated list of awesome Aikido material.
 - [Kokoro Aikido - 3. kyu exam techniques irimi nage](https://youtu.be/bi8t_-kLil8?t=110)
 
 ##### Shiho nage
-TODO
+- [Leonardo Sodre - Hanmi handachi gyaku hanmi katate tori shiho nage](https://www.youtube.com/watch?v=PNoeP3mDViU)
+- [Aikidoarts Hungary - Hanmi handachi gyakuhanmi katatedori shihonage omote](https://www.youtube.com/watch?v=mrQKrcDw748)
+- [Aikidoarts Hungary - Hanmi handachi gyakuhanmi katatedori shihonage ura](https://www.youtube.com/watch?v=uFkh7_u-oPE)
 
 ##### Kaiten nage
 - [Kuma Aikido - soto kaiten nage](https://www.youtube.com/watch?v=ESXtsV0aeMI)
@@ -368,7 +370,9 @@ TODO
 - [Yasunari Kitaura - Ryotedori Iriminage basico](https://www.youtube.com/watch?v=D2iqPU7BreA)
 
 ##### Juji garami 
-TODO
+- [Aikido Virtual Dojo - Ryote-dori jujinage](https://www.youtube.com/watch?v=mZBtif0ZlFY)
+- [Hervé Dizien - Ryote dori juji garami](https://www.youtube.com/watch?v=IilTkaDFCoA)
+- [Aikido Rudokan - Ryote dori juji nage](https://www.youtube.com/watch?v=OGBk0qFXq50)
 
 ##### Kokyu ho 
 - [Raphael Arilla - Ryote dori kokyu ho omote et ura](https://www.youtube.com/watch?v=41v1W_cG18A)
@@ -418,7 +422,7 @@ TODO
 - [François Pichereau - Tachi waza, kata dori menuchi, uchi kaiten nage](https://www.youtube.com/watch?v=boJTHMNJM18)
 
 ##### Uchi kaiten sankyo
-TODO
+- [Aikido Tomás Sánchez - Kata dori men uchi uchi kaiten sankyo](https://www.youtube.com/watch?v=E5XqIpkRAWk)
 
 ### Ushiro Waza
 #### Ushiro Ryote Dori
@@ -447,7 +451,6 @@ TODO
 ##### Kokyu ho
 - [Angelina Demilhanova - ushiro ryotedori kokyu ho](https://www.youtube.com/watch?v=AuIEeldhqzk)
 - [Leonardo Sodre - Ushiro Ryote-tori Kokyu Ho](https://www.youtube.com/watch?v=FKnMrSrtrbs)
-TODO 
 
 ##### Kokyu nage
 - [Kokoro Aikido - 2. kyu exam techniques kokyu nage](https://youtu.be/u8WD-0W-pP4?t=2183)
