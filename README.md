@@ -15,13 +15,13 @@ Curated list of awesome Aikido material.
   - [Ushiro Waza](#ushiro-waza)
     - [Ushiro Ryote Dori](#ushiro-ryote-dori): [Kote gaeshi](#kote-gaeshi-3) · [Kokyu ho](#kokyu-ho) · [Kokyu nage](#kokyu-nage-1) · [Ude kime nage](#ude-kime-nage-1) · [Juji garami](#juji-garami)
     - [Ushiro Ryo Hiji Dori](#ushiro-ryo-hiji-dori): [Nikyo](#nikyo-2) · [Sankyo](#sankyo-2) · [Shiho nage](#shiho-nage-2)
-  - [Ken Suburi (bokken)](#ken-suburi-bokken): [1](#1er-suburi-shomen-uchi) · [2](#2on-suburi-shomen-uchikomi) · [3](#3er-suburi-shomen-uchiwaki) · [4](#4art-suburi-shomen-uchi-hidari-migi) · [5](#5er-suburi-yokomen-uchi-gyaku-yokomen) · [6](#6er-suburi-yokomen-tsuki-gyaku-yokomen-tsuki) · [7](#7er-suburi-yokomen-uchi-hidari-tsuki)
+  - [Ken Suburi (bokken)](#ken-suburi-bokken): [1](#1st-suburi-shomen-uchi) · [2](#2nd-suburi-shomen-uchikomi) · [3](#3rd-suburi-shomen-uchiwaki) · [4](#4th-suburi-shomen-uchi-hidari-migi) · [5](#5th-suburi-yokomen-uchi-gyaku-yokomen) · [6](#6th-suburi-yokomen-tsuki-gyaku-yokomen-tsuki) · [7](#7th-suburi-yokomen-uchi-hidari-tsuki)
   - [Tanto Dori](#tanto-dori)
-    - [Atac Lliure](#atac-lliure): [Jiyu waza](#jiyu-waza)
+    - [Free attack](#free-attack): [Jiyu waza](#jiyu-waza)
   - [Randori](#randori)
-    - [2 ukes](#2-ukes): [Atac Lliure](#atac-lliure-1) · [Jiyu waza](#jiyu-waza-1)
+    - [2 ukes](#2-ukes): [Free attack](#free-attack-1) · [Jiyu waza](#jiyu-waza-1)
   - [Jo](#jo)
-    - [kata de 14](#kata-de-14)
+    - [14-movement kata](#14-movement-kata)
 - [2nd kyu](#2nd-kyu)
   - [Suwari Waza](#suwari-waza-1)
     - [Shomen Uchi](#shomen-uchi-1): [Ikkyo](#ikkyo-2) · [Nikyo](#nikyo-3) · [Sankyo](#sankyo-3) · [Yonkyo](#yonkyo) · [Gokyo](#gokyo)
@@ -33,13 +33,13 @@ Curated list of awesome Aikido material.
   - [Ushiro Waza](#ushiro-waza-1)
     - [Ushiro Ryote Dori](#ushiro-ryote-dori-1): [Ikkyo](#ikkyo-5) · [Nikyo](#nikyo-5) · [Sankyo](#sankyo-4) · [Kote gaeshi](#kote-gaeshi-5) · [Kokyu ho](#kokyu-ho-2) · [Kokyu nage](#kokyu-nage-4)
     - [Ushiro Ryo Kata Dori](#ushiro-ryo-kata-dori): [Ikkyo](#ikkyo-6) · [Nikyo](#nikyo-6) · [Sankyo](#sankyo-5) · [Shiho nage](#shiho-nage-5) · [Kokyu nage](#kokyu-nage-5)
-  - [Ken Suburi (bokken)](#ken-suburi-bokken-1): [1](#1er-suburi-shomen-uchi-1) · [2](#2on-suburi-shomen-uchikomi-1) · [3](#3er-suburi-shomen-uchiwaki-1) · [4](#4art-suburi-shomen-uchi-hidari-migi-1) · [5](#5e-suburi-shomen-uchi-gyaku-yokomen)
+  - [Ken Suburi (bokken)](#ken-suburi-bokken-1): [1](#1st-suburi-shomen-uchi-1) · [2](#2nd-suburi-shomen-uchikomi-1) · [3](#3rd-suburi-shomen-uchiwaki-1) · [4](#4th-suburi-shomen-uchi-hidari-migi-1) · [5](#5th-suburi-shomen-uchi-gyaku-yokomen)
   - [Jo](#jo-1)
-    - [kata de 14](#kata-de-14-1)
+    - [14-movement kata](#14-movement-kata-1)
 
 ## 1st kyu
  
-*Totes les tècniques en OMOTE i URA*
+*All techniques in OMOTE and URA*
  
 > Videos below are chosen to show the exact **waza (posture) → attack → defense** combination, not just the technique in isolation.
  
@@ -231,46 +231,46 @@ Curated list of awesome Aikido material.
  
 *(No specific attack/defense pair — suburi are solo cutting exercises)*
  
-##### 1er suburi (Shomen uchi)
+##### 1st suburi (Shomen uchi)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
 - [Suburi 1-8 Aikido Horii Etsuji Sensei](https://www.youtube.com/watch?v=O3U8AZ5bhpA)
 - [Leonardo Sodre - 8 suburi](https://www.youtube.com/watch?v=GafsJfID1-I)
-##### 2on suburi (Shomen uchikomi)
+##### 2nd suburi (Shomen uchikomi)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
-##### 3er suburi (Shomen uchiwaki)
+##### 3rd suburi (Shomen uchiwaki)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
-##### 4art suburi (Shomen uchi Hidari, Migi)
+##### 4th suburi (Shomen uchi Hidari, Migi)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
-##### 5er suburi (Yokomen uchi, Gyaku Yokomen)
+##### 5th suburi (Yokomen uchi, Gyaku Yokomen)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
-##### 6er suburi (Yokomen tsuki, Gyaku Yokomen tsuki)
+##### 6th suburi (Yokomen tsuki, Gyaku Yokomen tsuki)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
-##### 7er suburi (Yokomen uchi, Hidari tsuki)
+##### 7th suburi (Yokomen uchi, Hidari tsuki)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
 ### Tanto Dori
  
-#### Atac Lliure
+#### Free attack
  
 ##### Jiyu waza
  
@@ -281,7 +281,7 @@ Curated list of awesome Aikido material.
  
 #### 2 ukes
  
-##### Atac Lliure
+##### Free attack
  
 ##### Jiyu waza
  
@@ -290,7 +290,7 @@ Curated list of awesome Aikido material.
 - [Aikido: Multiple Attack Randori - When Two Attackers Grab](https://www.youtube.com/watch?v=OAp2hmv_CUg)
 ### Jo
  
-#### kata de 14
+#### 14-movement kata
  
 - [Aikido: Jo Kata no. 14 - Attila Pivony Sensei](https://www.youtube.com/watch?v=Pfqd7WXWCk0)
 - [Kata 14 mouvements Jo par Denis DROGY](https://www.youtube.com/watch?v=uqHReeLK-2c)
@@ -475,21 +475,21 @@ TODO
 
 
 ### Ken Suburi (bokken)
-##### 1er suburi (Shomen uchi)
+##### 1st suburi (Shomen uchi)
 - [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY)
 
-##### 2on suburi (Shomen uchikomi)
+##### 2nd suburi (Shomen uchikomi)
 - [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY&t=43)
 
-##### 3er suburi (Shomen uchiwaki)
+##### 3rd suburi (Shomen uchiwaki)
 - [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY&t=109)
 
-##### 4art suburi (Shomen uchi Hidari, Migi)
+##### 4th suburi (Shomen uchi Hidari, Migi)
 - [TakemusuAikidoNL - aikido instruction; ken suburi 4,5,6 and 7](https://www.youtube.com/watch?v=6keXUcYUE3M)
 
-##### 5e suburi (Shomen uchi, Gyaku Yokomen)
+##### 5th suburi (Shomen uchi, Gyaku Yokomen)
 - [TakemusuAikidoNL - aikido instruction; ken suburi 4,5,6 and 7](https://www.youtube.com/watch?v=6keXUcYUE3M&t=31)
 
 ### Jo
-#### kata de 14
+#### 14-movement kata
 - [Aikido Mataró - Jo 14 moviments](https://www.youtube.com/watch?v=rVn1ZNgJMNI)

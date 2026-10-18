@@ -18,7 +18,7 @@ A content-only "awesome list" of Aikido video links. There is no code, build, li
 - Link format: `- [Video title](https://www.youtube.com/watch?v=ID)`, using the video's real YouTube title (fetchable via `https://www.youtube.com/oembed?url=<video url>&format=json`).
 - The same technique name repeats across attacks and kyus (Ikkyo, Kote gaeshi, Kokyu nage...). Make sure a new video goes under the right kyu → category → attack before adding it.
 - TOC anchors follow GitHub's slug rules: lowercase, punctuation stripped, spaces to `-`, and duplicate headings get `-1`, `-2`... in document order. Adding or removing a heading shifts the suffixes of later duplicates, so re-check the TOC links after structural changes.
-- Section names mix Japanese terms with Catalan/Spanish/French labels (`Atac Lliure`, `kata de 14`, `1er suburi`). Keep the existing spelling rather than normalizing.
+- Headings and notes are in English with Japanese technique terms (`Free attack`, `14-movement kata`, `1st suburi`). Video titles stay as published, in whatever language.
 
 ## Video selection
 
