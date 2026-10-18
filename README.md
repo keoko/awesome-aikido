@@ -33,7 +33,7 @@ Curated list of awesome Aikido material.
   - [Ushiro Waza](#ushiro-waza-1)
     - [Ushiro Ryote Dori](#ushiro-ryote-dori-1): [Ikkyo](#ikkyo-5) · [Nikyo](#nikyo-5) · [Sankyo](#sankyo-4) · [Kote gaeshi](#kote-gaeshi-5) · [Kokyu ho](#kokyu-ho-2) · [Kokyu nage](#kokyu-nage-4)
     - [Ushiro Ryo Kata Dori](#ushiro-ryo-kata-dori): [Ikkyo](#ikkyo-6) · [Nikyo](#nikyo-6) · [Sankyo](#sankyo-5) · [Shiho nage](#shiho-nage-5) · [Kokyu nage](#kokyu-nage-5)
-  - [Ken Suburi (bokken)](#ken-suburi-bokken-1): [1](#1st-suburi-shomen-uchi-1) · [2](#2nd-suburi-shomen-uchikomi-1) · [3](#3rd-suburi-shomen-uchiwaki-1) · [4](#4th-suburi-shomen-uchi-hidari-migi-1) · [5](#5th-suburi-shomen-uchi-gyaku-yokomen)
+  - [Ken Suburi (bokken)](#ken-suburi-bokken-1)
   - [Jo](#jo-1)
     - [14-movement kata](#14-movement-kata-1)
 
@@ -195,16 +195,22 @@ Curated list of awesome Aikido material.
 - [Raphael Arilla - Ushiro Ryote dori Kote Gaeshi. 3 formes](https://www.youtube.com/watch?v=IaxLNS0V-7k)
 - [Leonardo Sodre - Ushiro Ryote Dori Kotegaeshi](https://www.youtube.com/watch?v=P9Bo_x9mHrY)
 - [Christian Tissier part 3/5 Ushiro ryote dori kote gaeshi](https://www.youtube.com/watch?v=zL5D25YSwhQ)
+- [Kokoro Aikido - 3. kyu exam techniques kote gaeshi omote](https://youtu.be/bi8t_-kLil8?t=2668)
+- [Aikido Isabel Planells - técnicas desde Ushiro Ryote Dori ](https://www.youtube.com/watch?v=D6REWFS_WsA&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=2)
+- [Aikido Isabel Planells - 3 técnicas de 4 kyu de Aikido](https://www.youtube.com/watch?v=go20qA2bsCo&list=PLOzpLLnWCCcycjjvaJi1CASPkQth3Oq0K&index=80&t=638s)
 ##### Kokyu ho
  
 - [Aikido: Details on Ushiro Waza Ryote Dori Kokyu-Ho](https://m.youtube.com/watch?v=IzIrvB88exw)
 - [Aikido: Kihon 101 - Ushiro Ryote Dori Kokyu-Ho](https://www.youtube.com/watch?v=yxSGf2YF94g)
 - [Leonardo Sodre - Ushiro Ryote-tori Kokyu Ho](https://www.youtube.com/watch?v=FKnMrSrtrbs)
+- [Angelina Demilhanova - ushiro ryotedori kokyu ho](https://www.youtube.com/watch?v=AuIEeldhqzk)
 ##### Kokyu nage
  
 - [Aikido: Ushiro Ryote Dori Kokyu Nage](https://www.youtube.com/watch?v=NMXqhCEQAEA)
 - [KOKYU NAGE - Ushiro Ryote Dori (Aikido Iwama)](https://www.youtube.com/watch?v=oRWRCKK6LCE)
 - [Ushiro ryote dori kokyu nage](https://www.youtube.com/watch?v=ecsjFQlhbks)
+- [Kokoro Aikido - 2. kyu exam techniques kokyu nage](https://youtu.be/u8WD-0W-pP4?t=2183)
+- [François Pichereau - Tachi waza, Ushiro ryote dori, kokyu nage](https://www.youtube.com/watch?v=19X3GZo2GgY)
 ##### Ude kime nage
  
 - [Tachi waza, Ushiro ryote dori, Ude kime nage](https://www.youtube.com/watch?v=-9BBs1F9B1o)
@@ -238,26 +244,31 @@ Curated list of awesome Aikido material.
 - [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
 - [Suburi 1-8 Aikido Horii Etsuji Sensei](https://www.youtube.com/watch?v=O3U8AZ5bhpA)
 - [Leonardo Sodre - 8 suburi](https://www.youtube.com/watch?v=GafsJfID1-I)
+- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY)
 ##### 2nd suburi (Shomen uchikomi)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
+- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY&t=43)
 ##### 3rd suburi (Shomen uchiwaki)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
+- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY&t=109)
 ##### 4th suburi (Shomen uchi Hidari, Migi)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
+- [TakemusuAikidoNL - aikido instruction; ken suburi 4,5,6 and 7](https://www.youtube.com/watch?v=6keXUcYUE3M)
 ##### 5th suburi (Yokomen uchi, Gyaku Yokomen)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [7 Ken Suburi (Bokken) | The Martial Way Student Basics](https://www.youtube.com/watch?v=eEg4OlMXlqg)
+- [TakemusuAikidoNL - aikido instruction; ken suburi 4,5,6 and 7](https://www.youtube.com/watch?v=6keXUcYUE3M&t=31)
 ##### 6th suburi (Yokomen tsuki, Gyaku Yokomen tsuki)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
@@ -295,6 +306,7 @@ Curated list of awesome Aikido material.
 - [Aikido: Jo Kata no. 14 - Attila Pivony Sensei](https://www.youtube.com/watch?v=Pfqd7WXWCk0)
 - [Kata 14 mouvements Jo par Denis DROGY](https://www.youtube.com/watch?v=uqHReeLK-2c)
 - [AKDN - pratique du JO - le kata des 14](https://www.youtube.com/watch?v=FgWFs6bKknM)
+- [Aikido Mataró - Jo 14 moviments](https://www.youtube.com/watch?v=rVn1ZNgJMNI)
  
 
 
@@ -442,19 +454,13 @@ Curated list of awesome Aikido material.
 - [Leonardo Sodre - Ushiro Ryote Tori Dai Sankyo](https://www.youtube.com/watch?v=tKhyR9yVwkk)
 
 ##### Kote gaeshi
-- [Kokoro Aikido - 3. kyu exam techniques kote gaeshi omote](https://youtu.be/bi8t_-kLil8?t=2668)
-- [Aikido Isabel Planells - técnicas desde Ushiro Ryote Dori ](https://www.youtube.com/watch?v=D6REWFS_WsA&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=2)
-- [Aikido Isabel Planells - 3 técnicas de 4 kyu de Aikido](https://www.youtube.com/watch?v=go20qA2bsCo&list=PLOzpLLnWCCcycjjvaJi1CASPkQth3Oq0K&index=80&t=638s)
-- [Raphael Arilla - Ushiro Ryote dori Kote Gaeshi. 3 formes](https://www.youtube.com/watch?v=IaxLNS0V-7k)
-- [Leonardo Sodre - Ushiro Ryote Dori Kotegaeshi](https://www.youtube.com/watch?v=P9Bo_x9mHrY)
+*Same as 1st kyu — see [Ushiro Ryote Dori · Kote gaeshi](#kote-gaeshi-3).*
 
 ##### Kokyu ho
-- [Angelina Demilhanova - ushiro ryotedori kokyu ho](https://www.youtube.com/watch?v=AuIEeldhqzk)
-- [Leonardo Sodre - Ushiro Ryote-tori Kokyu Ho](https://www.youtube.com/watch?v=FKnMrSrtrbs)
+*Same as 1st kyu — see [Ushiro Ryote Dori · Kokyu ho](#kokyu-ho).*
 
 ##### Kokyu nage
-- [Kokoro Aikido - 2. kyu exam techniques kokyu nage](https://youtu.be/u8WD-0W-pP4?t=2183)
-- [François Pichereau - Tachi waza, Ushiro ryote dori, kokyu nage](https://www.youtube.com/watch?v=19X3GZo2GgY)
+*Same as 1st kyu — see [Ushiro Ryote Dori · Kokyu nage](#kokyu-nage-1).*
 
 #### Ushiro Ryo Kata Dori
 ##### Ikkyo
@@ -478,21 +484,8 @@ Curated list of awesome Aikido material.
 
 
 ### Ken Suburi (bokken)
-##### 1st suburi (Shomen uchi)
-- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY)
-
-##### 2nd suburi (Shomen uchikomi)
-- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY&t=43)
-
-##### 3rd suburi (Shomen uchiwaki)
-- [TakemusuAikidoNL - aikido instruction; ken suburi 1,2 and 3](https://www.youtube.com/watch?v=5yAA5oKVQgY&t=109)
-
-##### 4th suburi (Shomen uchi Hidari, Migi)
-- [TakemusuAikidoNL - aikido instruction; ken suburi 4,5,6 and 7](https://www.youtube.com/watch?v=6keXUcYUE3M)
-
-##### 5th suburi (Shomen uchi, Gyaku Yokomen)
-- [TakemusuAikidoNL - aikido instruction; ken suburi 4,5,6 and 7](https://www.youtube.com/watch?v=6keXUcYUE3M&t=31)
+*Suburi 1 to 5, same as 1st kyu — see [Ken Suburi (bokken)](#ken-suburi-bokken).*
 
 ### Jo
 #### 14-movement kata
-- [Aikido Mataró - Jo 14 moviments](https://www.youtube.com/watch?v=rVn1ZNgJMNI)
+*Same as 1st kyu — see [Jo · 14-movement kata](#14-movement-kata).*
