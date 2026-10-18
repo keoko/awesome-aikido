@@ -287,6 +287,7 @@ TODO
 
 ##### Tenchi nage
 - [Kokoro Aikido - 4. kyu exam techniques, ryote dori tenchi nage](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=493s)
+- [Ryote tori Tenchi Nage](https://www.youtube.com/watch?v=Aue9NIMEPEs)
 
 ##### Kote gaeshi
 - [Kokoro Aikido - 4. kyu exam techniques, ryote dori kote gaeshi](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=959s)
