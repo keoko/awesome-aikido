@@ -303,7 +303,6 @@ Curated list of awesome Aikido material.
  
 #### 14-movement kata
  
-- [Aikido: Jo Kata no. 14 - Attila Pivony Sensei](https://www.youtube.com/watch?v=Pfqd7WXWCk0)
 - [Kata 14 mouvements Jo par Denis DROGY](https://www.youtube.com/watch?v=uqHReeLK-2c)
 - [AKDN - pratique du JO - le kata des 14](https://www.youtube.com/watch?v=FgWFs6bKknM)
 - [Aikido Mataró - Jo 14 moviments](https://www.youtube.com/watch?v=rVn1ZNgJMNI)
