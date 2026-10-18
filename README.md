@@ -15,7 +15,7 @@ Curated list of awesome Aikido material.
   - [Ushiro Waza](#ushiro-waza)
     - [Ushiro Ryote Dori](#ushiro-ryote-dori): [Kote gaeshi](#kote-gaeshi-3) · [Kokyu ho](#kokyu-ho) · [Kokyu nage](#kokyu-nage-1) · [Ude kime nage](#ude-kime-nage-1) · [Juji garami](#juji-garami)
     - [Ushiro Ryo Hiji Dori](#ushiro-ryo-hiji-dori): [Nikyo](#nikyo-2) · [Sankyo](#sankyo-2) · [Shiho nage](#shiho-nage-2)
-  - [Ken Suburi (bokken)](#ken-suburi-bokken): [1er suburi (Shomen uchi)](#1er-suburi-shomen-uchi) · [2on suburi (Shomen uchikomi)](#2on-suburi-shomen-uchikomi) · [3er suburi (Shomen uchiwaki)](#3er-suburi-shomen-uchiwaki) · [4art suburi (Shomen uchi Hidari, Migi)](#4art-suburi-shomen-uchi-hidari-migi) · [5er suburi (Yokomen uchi, Gyaku Yokomen)](#5er-suburi-yokomen-uchi-gyaku-yokomen) · [6er suburi (Yokomen tsuki, Gyaku Yokomen tsuki)](#6er-suburi-yokomen-tsuki-gyaku-yokomen-tsuki) · [7er suburi (Yokomen uchi, Hidari tsuki)](#7er-suburi-yokomen-uchi-hidari-tsuki)
+  - [Ken Suburi (bokken)](#ken-suburi-bokken): [1](#1er-suburi-shomen-uchi) · [2](#2on-suburi-shomen-uchikomi) · [3](#3er-suburi-shomen-uchiwaki) · [4](#4art-suburi-shomen-uchi-hidari-migi) · [5](#5er-suburi-yokomen-uchi-gyaku-yokomen) · [6](#6er-suburi-yokomen-tsuki-gyaku-yokomen-tsuki) · [7](#7er-suburi-yokomen-uchi-hidari-tsuki)
   - [Tanto Dori](#tanto-dori)
     - [Atac Lliure](#atac-lliure): [Jiyu waza](#jiyu-waza)
   - [Randori](#randori)
@@ -33,7 +33,7 @@ Curated list of awesome Aikido material.
   - [Ushiro Waza](#ushiro-waza-1)
     - [Ushiro Ryote Dori](#ushiro-ryote-dori-1): [Ikkyo](#ikkyo-5) · [Nikyo](#nikyo-5) · [Sankyo](#sankyo-4) · [Kote gaeshi](#kote-gaeshi-5) · [Kokyu ho](#kokyu-ho-2) · [Kokyu nage](#kokyu-nage-4)
     - [Ushiro Ryo Kata Dori](#ushiro-ryo-kata-dori): [Ikkyo](#ikkyo-6) · [Nikyo](#nikyo-6) · [Sankyo](#sankyo-5) · [Shiho nage](#shiho-nage-5) · [Kokyu nage](#kokyu-nage-5)
-  - [Ken Suburi (bokken)](#ken-suburi-bokken-1): [1er suburi (Shomen uchi)](#1er-suburi-shomen-uchi-1) · [2on suburi (Shomen uchikomi)](#2on-suburi-shomen-uchikomi-1) · [3er suburi (Shomen uchiwaki)](#3er-suburi-shomen-uchiwaki-1) · [4art suburi (Shomen uchi Hidari, Migi)](#4art-suburi-shomen-uchi-hidari-migi-1) · [5e suburi (Shomen uchi, Gyaku Yokomen)](#5e-suburi-shomen-uchi-gyaku-yokomen)
+  - [Ken Suburi (bokken)](#ken-suburi-bokken-1): [1](#1er-suburi-shomen-uchi-1) · [2](#2on-suburi-shomen-uchikomi-1) · [3](#3er-suburi-shomen-uchiwaki-1) · [4](#4art-suburi-shomen-uchi-hidari-migi-1) · [5](#5e-suburi-shomen-uchi-gyaku-yokomen)
   - [Jo](#jo-1)
     - [kata de 14](#kata-de-14-1)
 
