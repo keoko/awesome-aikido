@@ -52,11 +52,13 @@ Curated list of awesome Aikido material.
 - [Technique Aïkido | Suwari waza - Shomen uchi - Irimi nage](https://www.youtube.com/watch?v=v9xkRJy7FFQ)
 - [Suwari Waza Shomen Uchi Irimi Nage](https://www.youtube.com/watch?v=1b0SmeUb3yY)
 - [⛩️ aïkido techniques - SUWARI WAZA - SHOMEN UCHI IRIMI NAGE - OMOTE - URA](https://www.youtube.com/watch?v=_hN1CGoA8SU)
+- [Raphael Arilla - SUWARI WAZA SHOMEN UCHI IRIMI NAGE et KOTE GAESHI](https://www.youtube.com/watch?v=gv02ol61tUA)
 ##### Kote gaeshi
  
 - [Suwari Waza - Shomen Uchi - Kote Gaeshi](https://www.youtube.com/watch?v=6uVEZo-09jw)
 - [suwari waza shomen uchi kotegaeshi [TUTORIAL]](https://www.youtube.com/watch?v=5EEwEbPsm74)
 - [Aikido Suwari waza Shomenuchi Kotegaeshi](https://www.youtube.com/watch?v=Wad5uOBfsfo)
+- [Raphael Arilla - SUWARI WAZA SHOMEN UCHI IRIMI NAGE et KOTE GAESHI](https://www.youtube.com/watch?v=gv02ol61tUA)
 ##### Shiho nage
  
 - [AIKIDO: SUWARI WAZA - SHOMEN UCHI - NAGE WAZA](https://m.youtube.com/watch?v=P2bstpfwmVY)
@@ -99,11 +101,14 @@ Curated list of awesome Aikido material.
 - [Gyaku hanmi katate dori ikkyo](https://www.youtube.com/watch?v=LtediWpTIuA)
 - [aikido instruction: katate dori gyaku hanmi, nikkyo ura waza](https://www.youtube.com/watch?v=Y0yhe3nyJrk)
 - [Aikido - Gyaku Hanmi Katate Dori Sankyo](https://www.youtube.com/watch?v=1dKLia5dj-I)
+- [Leonardo Sodre - Gyaku Hanmi Katate Tori Dai Nikyo](https://www.youtube.com/watch?v=iFSDzc40_vQ)
+- [Katate Dori Ikkyo and Nikyo Ura by Christian Tissier Shihan](https://www.youtube.com/watch?v=pmwRBUSjADQ)
 ##### Uchi kaiten sankyo
  
 - [Gyaku Hanmi Katate Dori Uchi Kaiten Sankyo Omote](https://www.youtube.com/watch?v=a_YrsL6UjcE)
 - [ai hanmi katate dori uchi kaiten sankyo (aikido)](https://www.youtube.com/watch?v=3c5WU3IP03A)
 - [Ai Hanmi Katate Dori Uchi Kaiten Sankyo](https://www.youtube.com/watch?v=pVm3jGgDYAY)
+- [Leonardo Sodre - Gyaku Hanmi Katate-tori Dai Sankyo](https://www.youtube.com/watch?v=sgot64G6Q_M)
 ##### Soto kaiten nage
  
 - [KAITEN NAGE soto - gyaku hanmi katate dori](https://www.youtube.com/watch?v=zTsuuTjkQgc)
@@ -114,11 +119,15 @@ Curated list of awesome Aikido material.
 - [Gyaku Hanmi Katate Dori Uchi Kaiten Nage](https://www.youtube.com/watch?v=N6n2FaanELI)
 - [Gyaku Hanmi Katate tori Kaiten Nage (Uchi-Kaiten)](https://www.youtube.com/watch?v=PSCxR35m1Ls)
 - [Gyaku Hanmi Katate Dori Kaiten Nage Uchi/Soto | Cheat sheet](https://www.youtube.com/watch?v=J3axyO8CzsI)
+- [Raphael Arilla - KATATE DORI UCHI KAITEN](https://www.youtube.com/watch?v=WYg6r215KBo)
 ##### Kote gaeshi
  
 - [4. Kyu - Tachi waza - Katate Dori Gyaku Hanmi - Kote Gaeshi Omote](https://www.youtube.com/watch?v=psmRNdrieYk)
 - [Tachi Waza Gyaku Hanmi Katate Dori Kote Gaeshi](https://www.youtube.com/watch?v=hqM8oTRU2Tg)
 - [Gyaku Hanmi Katate Dori Kotegaeshi Ura](https://www.youtube.com/watch?v=z6JYb4UGwD0)
+- [Leonardo Sodre - Gyaku Katate tori Kotegaeshi (reverse grip)](https://www.youtube.com/watch?v=ciOG4Gts81A)
+- [Yasunari Kitaura - gyakuhanmikatatedori kotegaeshi](https://www.youtube.com/watch?v=YWp0112hCB4)
+- [Christian Tissier part 5/5 Katate dori kote gaeshi](https://www.youtube.com/watch?v=cFK0n5f67HI)
 #### Jodan Tsuki
  
 ##### Ikkyo
@@ -126,19 +135,26 @@ Curated list of awesome Aikido material.
 - [IKKYO ura - jodan tsuki](https://www.youtube.com/watch?v=DsyiZxoYcqc)
 - [Jodan tsuki ikkyo et variations](https://www.youtube.com/watch?v=A-CKimJDues)
 - [JODAN TSUKI IKKYO OMOTE & NIKKYO URA - Christian Tissier](https://www.youtube.com/watch?v=etBD7g5SyPM)
+- [Leonardo Sodre - Tsuki Dai Ikkyo](https://www.youtube.com/watch?v=yiVXUppRJKE)
+- [Yasunari Kitaura - VID00088 jodan tsuki ikkyo](https://www.youtube.com/watch?v=qzSAuAMF5ak)
 ##### Nikyo
  
 - [Jodan Tsuki NIKYO - omote & ura](https://www.youtube.com/watch?v=DsgsjwWq6uU)
 - [Christian Tissier | Aikido | jodan tsuki | nikyo ura](https://www.youtube.com/watch?v=9kJMOdE35Kg)
 - [Jodan Tsuki: Nikyo Ura](https://www.youtube.com/watch?v=ErOxU5ixKuc)
+- [Christian Tissier: Brescia Seminar '23 - Jodan tsuki Nikyo](https://www.youtube.com/watch?v=a6FI0Cvxl-w)
 ##### Sankyo
  
 - [Jodan Tsuki SANKYO - omote & ura](https://www.youtube.com/watch?v=TOtUMYx3Leo)
+- [Yasunari Kitaura - Jodantsuki_gyaku Sankyo en_uchi](https://www.youtube.com/watch?v=5xUPxyySIPY)
 ##### Irimi nage
  
 - [Jodan Tsuki IRIMINAGE - omote & ura](https://www.youtube.com/watch?v=RfbT1UTDEHI)
 - [Christian Tissier | Aikido | jodan tsuki | irimi nage](https://www.youtube.com/watch?v=_735W6ZDzGA)
 - [Jodan Tsuki Irimi Nage](https://www.youtube.com/watch?v=JG9MGAGUguI)
+- [Raphael Arilla - CHUDAN TSUKI IRIMI NAGE ET JU WAZA](https://www.youtube.com/watch?v=z6rA8Fs_1G4)
+- [Leonardo Sodre - Tsuki Irimi Nage](https://www.youtube.com/watch?v=UGvZwKY0ido)
+- [Yasunari Kitaura - JodanTsuki aihanmi iriminage directo con la de atras](https://www.youtube.com/watch?v=mELhl7DxTKU)
 #### Kata Dori Menuchi
  
 ##### Shiho nage
@@ -146,6 +162,7 @@ Curated list of awesome Aikido material.
 - [Kata Dori Men Uchi - Shiho Nage - Tamura Nobuyoshi shihan](https://www.youtube.com/watch?v=xEn2aya-qPE)
 - [Kata-dori men-uchi shihonage - Aikido Virtual Dojo](https://www.youtube.com/watch?v=1X-7801YHwk)
 - [[AIKIDO] Kata Dori Men Uchi - Shiho Nage (2022)](https://www.youtube.com/watch?v=iXvCe6BafV4)
+- [Leonardo Sodre - Kata-Tori Men Uchi Shiho Nage: Two ways to apply](https://www.youtube.com/watch?v=Zb_AQuhYWsw)
 ##### Koshi nage
  
 - [KOSHI NAGE, kata dori men uchi](https://www.youtube.com/watch?v=vpeXKfKIyb4)
@@ -160,6 +177,8 @@ Curated list of awesome Aikido material.
 - [Tachi waza, Kata dori men uchi, Kote gaeshi](https://www.youtube.com/watch?v=GEbtVST4urE)
 - [AIKIDO - TACHI WAZA - KATA DORI MENUCHI - Kote Gaeshi - Gokyo - Shiho Nage - Ikkyo](https://www.youtube.com/watch?v=8W_9N0yeLok)
 - [AIKIDO: Kata dori men uchi with Nora Weller (Kokyu Nage, Kote gaeshi)](https://www.youtube.com/watch?v=EhxRVqQSkHE)
+- [Leonardo Sodre - Kata dori Menuchi Kotegaeshi](https://www.youtube.com/watch?v=x3JAhtJ8OwQ)
+- [Kata dori men uchi kotegaeshi by Christian Tissier in Kyiv](https://www.youtube.com/watch?v=rTqaW1ZkAb8)
 ##### Ude kime nage
  
 - [Kata dori men uchi Ude kime nage](https://www.youtube.com/watch?v=o-2NIF4x6fc)
@@ -172,10 +191,14 @@ Curated list of awesome Aikido material.
  
 - [KOTE GAESHI - Ushiro Ryote Dori (Aikido Iwama)](https://www.youtube.com/watch?v=RJNPG4HvsXk)
 - [Ushiro Ryote dori: Shiho nage, kote gaeshi, ikkyo omote/ura](https://www.youtube.com/watch?v=ce28jp5ETng)
+- [Raphael Arilla - Ushiro Ryote dori Kote Gaeshi. 3 formes](https://www.youtube.com/watch?v=IaxLNS0V-7k)
+- [Leonardo Sodre - Ushiro Ryote Dori Kotegaeshi](https://www.youtube.com/watch?v=P9Bo_x9mHrY)
+- [Christian Tissier part 3/5 Ushiro ryote dori kote gaeshi](https://www.youtube.com/watch?v=zL5D25YSwhQ)
 ##### Kokyu ho
  
 - [Aikido: Details on Ushiro Waza Ryote Dori Kokyu-Ho](https://m.youtube.com/watch?v=IzIrvB88exw)
 - [Aikido: Kihon 101 - Ushiro Ryote Dori Kokyu-Ho](https://www.youtube.com/watch?v=yxSGf2YF94g)
+- [Leonardo Sodre - Ushiro Ryote-tori Kokyu Ho](https://www.youtube.com/watch?v=FKnMrSrtrbs)
 ##### Kokyu nage
  
 - [Aikido: Ushiro Ryote Dori Kokyu Nage](https://www.youtube.com/watch?v=NMXqhCEQAEA)
@@ -190,6 +213,7 @@ Curated list of awesome Aikido material.
 - [Aikido Technique: Ushiro Ryote Dori - Juji Garami Nage](https://www.youtube.com/watch?v=97h8Zxkif_E)
 - [Technique Aïkido | Tachi waza - ushiro ryote dori - juji garami](https://www.youtube.com/watch?v=x28RBYW8Mt0)
 - [Christian Tissier | Aikido | ushiro ryote dori | juji garami](https://www.youtube.com/watch?v=Fg_gJL9A6Yg)
+- [Leonardo Sodre - Ushiro Ryote Tori Juji Garami](https://www.youtube.com/watch?v=i7aaly-eTPY)
 #### Ushiro Ryo Hiji Dori
  
 ##### Nikyo
@@ -212,6 +236,8 @@ Curated list of awesome Aikido material.
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
 - [[Aikido Weapons] In-Depth 7 Bokken Suburi Tutorial](https://www.youtube.com/watch?v=9DbxHpUzwsA)
 - [Aikido 7 Ken Suburi - Basic Sword Forms](https://www.youtube.com/watch?v=a_aQ2vKMYyo)
+- [Suburi 1-8 Aikido Horii Etsuji Sensei](https://www.youtube.com/watch?v=O3U8AZ5bhpA)
+- [Leonardo Sodre - 8 suburi](https://www.youtube.com/watch?v=GafsJfID1-I)
 ##### 2on suburi (Shomen uchikomi)
  
 - [7 Bokken Suburi Tutorial - Lewis Bernaldo de Quiros](https://www.youtube.com/watch?v=glLN5mlovto)
@@ -281,14 +307,18 @@ Curated list of awesome Aikido material.
 ##### Ikkyo
 - [François Pichereau - Suwari waza, shomen uchi, ikyo](https://www.youtube.com/watch?v=eXTgZMILWZw&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=8)
 - [Kokoro Aikido - 2. kyu exam techniques shomen uchi ikkyo](https://youtu.be/u8WD-0W-pP4?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=12)
+- [Leonardo Sodre - Suwari Waza Shomen Uchi Dai Ikkyo](https://www.youtube.com/watch?v=RY6DWUbYPPg)
 
 ##### Nikyo
 - [François Pichereau - Suwari waza, shomen uchi, nikyo](https://www.youtube.com/watch?v=J8MpnscyjtA&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=9)
 - [Kokoro Aikido - 2. kyu exam techniques shomen uchi nikyo](https://youtu.be/u8WD-0W-pP4?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=57)
+- [Leonardo Sodre - Suwari Waza Shomen Uchi Dai Nikyo](https://www.youtube.com/watch?v=NZv9usoKFEA)
 
 ##### Sankyo
 - [François Pichereau - Suwari waza, shomen uchi, sankyo](https://www.youtube.com/watch?v=bRc-UjpA0Jk&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=10)
 - [Kokoro Aikido - 2. kyu exam techniques shomen uchi sankyo](https://youtu.be/u8WD-0W-pP4?list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&t=112)
+- [Raphael Arilla - Suwari waza Shomen uchi Ikkyo, Nikyo, Sankyo . Omote-Ura](https://www.youtube.com/watch?v=0ZCu7qW3RnM)
+- [Leonardo Sodre - Suwari Waza Shomen Uchi dai Sankyo: 2 basic forms](https://www.youtube.com/watch?v=yLDXZLmoqNg)
 
 ##### Yonkyo
 - [François Pichereau - Suwari waza, shomen uchi, yonkyo](https://www.youtube.com/watch?v=LRtp2w2-pOY&list=PLefaFeudP13PdYg2jVUgUxxREg90UuTkd&index=11)
@@ -323,38 +353,52 @@ TODO
 ##### Tenchi nage
 - [Kokoro Aikido - 4. kyu exam techniques, ryote dori tenchi nage](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=493s)
 - [Ryote tori Tenchi Nage](https://www.youtube.com/watch?v=Aue9NIMEPEs)
+- [Leonardo Sodre - Creating through Tenchi Nage and Shiho Nage: Ryote-Tori (両手取り) - Argentina 2026](https://www.youtube.com/watch?v=5xyOX9LdeqU)
+- [Yasunari Kitaura - Ryotedori Tenchinage basico_OmoteManodelante](https://www.youtube.com/watch?v=Dqe1WD_4BvM)
+- [Christian Tissier : Aïkido Dojo VDB 11 février 2023 (stage complet 1/6) Ryote Dori Tenchi Nage-Ikkyo](https://www.youtube.com/watch?v=4ktq1lDePiM)
 
 ##### Kote gaeshi
 - [Kokoro Aikido - 4. kyu exam techniques, ryote dori kote gaeshi](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=959s)
+- [Yasunari Kitaura - Ryotedori Kotegaeshi basico](https://www.youtube.com/watch?v=pTJi2Ux3pKg)
 
 ##### Irimi nage
 - [Kokoro Aikido - 4. kyu exam techniques, ryote dori irimi nage](https://www.youtube.com/watch?v=LaSilceurNY&list=PLfDefQkroPlsG2dklyX22dpX9pgjIrFCs&index=3&t=930s)
 - [Club Aikido Lleida - ryote dori irimi nage](https://www.youtube.com/watch?v=i3YOvWYpc1Y)
+- [Leonardo Sodre - Ryote tori Irimi Nage](https://www.youtube.com/watch?v=rvs_11KgXrY)
+- [Yasunari Kitaura - Ryotedori Iriminage basico](https://www.youtube.com/watch?v=D2iqPU7BreA)
 
 ##### Juji garami 
 TODO
 
 ##### Kokyu ho 
 - [Raphael Arilla - Ryote dori kokyu ho omote et ura](https://www.youtube.com/watch?v=41v1W_cG18A)
+- [Raphael Arilla - RYOTE DORI KOKYU HO en statique](https://www.youtube.com/watch?v=IdVbgXXv9e8)
 
 ##### Kokyu nage
 - [François Pichereau - Tachi waza, ryote dori, kokyu nage](https://www.youtube.com/watch?v=cf0uD0Ys3BU)
 - [Ondřej Malina - kokyu nage ryote dori](https://www.youtube.com/watch?v=elxmgH0Qh2Y)
+- [Leonardo Sodre - Ryote-dori Kokyu-ho and Ryote-dori Kokyu-nage](https://www.youtube.com/watch?v=VdITvNXUJ_0)
 
 #### Yokomen Uchi
 
 ##### Shiho nage
 - [Aikido Isabel Planells - 3 formas básicas de defenderse ante Yokomen Uchi en Aikido](https://www.youtube.com/watch?v=6EUIMiKSKaM&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=12)
+- [Raphael Arilla - YOKOMEN UCHI SHIHO NAGE OMOTE ET URA](https://www.youtube.com/watch?v=usYOhVX_6ig)
+- [Leonardo Sodre - Yokomen uchi Shiho Nage](https://www.youtube.com/watch?v=oU4SUXkJMfo)
+- [Yasunari Kitaura - Yokomenuchi Shihonage basico](https://www.youtube.com/watch?v=ahP42xCSrIE)
 
 ##### Koshi nage
 - [Kokoro Aikido - 2. kyu exam techniques koshi nage](https://youtu.be/u8WD-0W-pP4?t=1695)
+- [Leonardo Sodre - Yokomen Uchi Koshi Nage](https://www.youtube.com/watch?v=U7NQm5ZIHjE)
 
 ##### Irimi nage
 - [Aikido Isabel Planells - Aprende Irimi Nage desde Yokomen Uchi](https://www.youtube.com/watch?v=9JaQwcuB5_M&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=7)
+- [Yasunari Kitaura - Yokomenuchi Iriminage gargantaConAtras](https://www.youtube.com/watch?v=ZFxqssYrXU8)
 
 ##### Kokyu nage
 - [Kokoro Aikido - 2. kyu exam techniques kokyu nage 1](https://youtu.be/u8WD-0W-pP4?t=1660)
 - [Kokoro Aikido - 2. kyu exam techniques kokyu nage 2](https://youtu.be/u8WD-0W-pP4?t=1676)
+- [Leonardo Sodre - Yokomen Uchi Kokyu Nage (3 ways to apply)](https://www.youtube.com/watch?v=vQJCBIJp7bc)
 
 ####  Kata Dori Menuchi
 
@@ -363,6 +407,8 @@ TODO
 - [Christian Tissier - aikido , katadori menuchi , ikkyo omote 2ème forme](https://www.youtube.com/watch?v=X1mnwxt1zgo&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=2)
 - [Christian Tissier - aikido , katadori menuchi , ikkyo ura 1ère forme](https://www.youtube.com/watch?v=umNi5fKeaLA&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=3)
 - [Christian Tissier - aikido , katadori menuchi , ikkyo ura 2ème forme](https://www.youtube.com/watch?v=X1mnwxt1zgo&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=4)
+- [Raphael Arilla - Kata dori Men uchi ikkyo](https://www.youtube.com/watch?v=6gb9LqIQQBQ)
+- [Christian Tissier Shihan, seminar in Brescia (Italy) Jan. 2020: katadori menuchi ikkyo](https://www.youtube.com/watch?v=NnuAu57VeHM)
 
 ##### Nikyo
 - [Christian Tissier - aikido , katadori menuchi , nikyo ura](https://www.youtube.com/watch?v=7vvKNjwkecs&list=PL8h7yJn3ZjfPWd-Gc_rbdBfvsGiYJpJAK&index=5)
@@ -380,20 +426,27 @@ TODO
 ##### Ikkyo
 - [Club Aikido Lleida - ushiro ryote dori ikkyo omote](https://www.youtube.com/watch?v=PWEZfhmkt4I)
 - [Kokoro Aikido - 3. kyu exam techniques ikkyo omote](https://youtu.be/bi8t_-kLil8?t=2365)
+- [Leonardo Sodre - Ushiro Waza, defense against attacks from behind: Ushiro ryote tori Dai Ikkyo](https://www.youtube.com/watch?v=OaAOWZN5UGc)
+- [Christian Tissier: Ushiro ryotedori Ikkyo](https://www.youtube.com/watch?v=n8HAuEpbWKM)
 
 ##### Nikyo
 - [Kokoro Aikido - 3. kyu exam techniques nikyo omote](https://youtu.be/bi8t_-kLil8?t=2427)
+- [Leonardo Sodre - Ushiro Ryote-tori Dai Nikyo](https://www.youtube.com/watch?v=NOfqZ9NHwdg)
 
 ##### Sankyo
 - [Kokoro Aikido - 3. kyu exam techniques sankyo omote](https://youtu.be/bi8t_-kLil8?t=2508)
+- [Leonardo Sodre - Ushiro Ryote Tori Dai Sankyo](https://www.youtube.com/watch?v=tKhyR9yVwkk)
 
 ##### Kote gaeshi
 - [Kokoro Aikido - 3. kyu exam techniques kote gaeshi omote](https://youtu.be/bi8t_-kLil8?t=2668)
 - [Aikido Isabel Planells - técnicas desde Ushiro Ryote Dori ](https://www.youtube.com/watch?v=D6REWFS_WsA&list=PLOzpLLnWCCczCQJp_bDCUwB6B2JP3HwOg&index=2)
 - [Aikido Isabel Planells - 3 técnicas de 4 kyu de Aikido](https://www.youtube.com/watch?v=go20qA2bsCo&list=PLOzpLLnWCCcycjjvaJi1CASPkQth3Oq0K&index=80&t=638s)
+- [Raphael Arilla - Ushiro Ryote dori Kote Gaeshi. 3 formes](https://www.youtube.com/watch?v=IaxLNS0V-7k)
+- [Leonardo Sodre - Ushiro Ryote Dori Kotegaeshi](https://www.youtube.com/watch?v=P9Bo_x9mHrY)
 
 ##### Kokyu ho
 - [Angelina Demilhanova - ushiro ryotedori kokyu ho](https://www.youtube.com/watch?v=AuIEeldhqzk)
+- [Leonardo Sodre - Ushiro Ryote-tori Kokyu Ho](https://www.youtube.com/watch?v=FKnMrSrtrbs)
 TODO 
 
 ##### Kokyu nage
@@ -403,6 +456,7 @@ TODO
 #### Ushiro Ryo Kata Dori
 ##### Ikkyo
 - [François Pichereau - Tachi waza, ushiro ryokata dori, ikyo](https://www.youtube.com/watch?v=1AxrrJbjWYA)
+- [Yasunari Kitaura - Ryokatadori Ikkyo conlamanodeDelante](https://www.youtube.com/watch?v=ZedPPKgKfQs)
 
 ##### Nikyo
 - [Club Aikido Lleida - ushiro ryo kata dori nikyo omote](https://www.youtube.com/watch?v=Pj55QadRI4g&list=PL4yA4sf37ZE6mZ7C2TjEYo2hl_vuExC_L&index=24)
